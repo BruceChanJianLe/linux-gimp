@@ -1,2 +1,4 @@
-# linux-gimp
+# Linux GIMP
+
 Some shortcuts with GIMP!
+
